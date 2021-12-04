@@ -1,0 +1,11 @@
+input {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+button {
+    padding: 7.5px;
+    border: 1px solid gray;
+    color: #ffffff;
+    background-color: tomato;
+}
